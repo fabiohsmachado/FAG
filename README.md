@@ -1,4 +1,4 @@
-GePuGAL
+FAG
 =======
 
-General Purpose Genetic Algorithm Library
+Um Framework para Algoritmos Genéticos
